@@ -1,0 +1,7 @@
+{
+  "FullName": "Creature Color Plugin",
+  "Description": "Allows players to color their own creatures using /colorregion command with proper targeting and ownership checking",
+  "Version": 1.0,
+  "MinApiVersion": 1.0,
+  "Dependencies": []
+}
