@@ -1,0 +1,12 @@
+{
+  "enabled": true,
+  "send_ack": true,
+  "send_processing": true,
+  "send_completion": true,
+  "ack_message": "ACK: Command received",
+  "processing_message": "PROCESSING: {command}",
+  "completion_message": "COMPLETED: {command}",
+  "error_message": "ERROR: {error}",
+  "include_timestamp": true,
+  "log_commands": true
+}

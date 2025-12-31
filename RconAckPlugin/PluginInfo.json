@@ -1,0 +1,7 @@
+{
+  "FullName": "RCON Acknowledgement Plugin",
+  "Description": "Sends acknowledgement packets for RCON commands - ACK on receipt, PROCESSING during execution, and COMPLETED/ERROR when finished. Solves the silent command problem.",
+  "Version": 1.0,
+  "MinApiVersion": 1.0,
+  "Dependencies": []
+}
